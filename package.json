@@ -1,0 +1,17 @@
+{
+  "name": "hapy",
+  "version": "0.0.0",
+  "description": "My first xavils Webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "xavils",
+  "license": "isc",
+  "dependencies": {
+    "hapi": "~8.4.0"
+  }
+}
